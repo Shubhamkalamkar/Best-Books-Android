@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328781021985",
+    "project_id": "sppu-guru",
+    "storage_bucket": "sppu-guru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328781021985:android:72eb8a19165bea6970f460",
+        "android_client_info": {
+          "package_name": "com.shubham.sppuguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328781021985-ggvfbjc533lgh5aoa6are3fjgm498gkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AV-Af4b-VkLMjIgFatQwvbDtZ1_KyBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328781021985-ggvfbjc533lgh5aoa6are3fjgm498gkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
